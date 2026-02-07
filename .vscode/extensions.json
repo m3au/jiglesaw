@@ -6,7 +6,7 @@
     "ms-vscode.vscode-typescript-next",
     "stylelint.vscode-stylelint",
     "rbbit.typescript-hero",
-    "pflannery.vscode-versionlens",
+    "legalfina.npm-version-lens",
     "chakrounanas.turbo-console-log"
   ]
 }
